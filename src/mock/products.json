@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "BERMUDA COM CÓS FIXO E ESTAMPA DE ILHAS CINZA",
+    "description": "bermuda com cós fixo e estampa de ilhas cinza",
+    "sumary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquam, est nemo doloribus, et voluptates libero  labore, ab quod iusto quis qui cumque possimus. Minus velit provident possimus! Aliquid, tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati et neque, enim accusamus nemo expedita. Veniam autem accusamus quaerat officia minus aliquam ad, sunt eius voluptatibus accusantium dicta, unde voluptates!",
+    "price": 99.90,
+    "oldPrice": 199.90,
+    "countInStock": 5,
+    "slug": "bermuda-com-cos-fixo-e-estampa-de-ilhas-cinza",
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/products/bermuda-com-cos-fixo-frente.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/products/bermuda-com-cos-fixo-atras.webp"
+      }
+    ] 
+  },
+  {
+    "id": 2,
+    "name": "BERMUDA PAPER TOUCH COM ESTAMPA GEEK PRETO",
+    "description": "bermuda paper touch com estampa geek preto",
+    "sumary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquam, est nemo doloribus, et voluptates libero  labore, ab quod iusto quis qui cumque possimus. Minus velit provident possimus! Aliquid, tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati et neque, enim accusamus nemo expedita. Veniam autem accusamus quaerat officia minus aliquam ad, sunt eius voluptatibus accusantium dicta, unde voluptates!",
+    "price": 99.90,
+    "oldPrice": 199.90,
+    "countInStock": 2,
+    "slug": "bermuda-paper-touch-com-estampa-geek-preto",
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/products/bermuda-paper-touch-frente.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/products/bermuda-paper-touch-atras.webp"
+      }
+    ] 
+  },
+  {
+    "id": 3,
+    "name": "BERMUDA BÁSICA EM SARJA RETA MARROM",
+    "description": "bermuda básica em sarja reta marrom",
+    "sumary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquam, est nemo doloribus, et voluptates libero  labore, ab quod iusto quis qui cumque possimus. Minus velit provident possimus! Aliquid, tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati et neque, enim accusamus nemo expedita. Veniam autem accusamus quaerat officia minus aliquam ad, sunt eius voluptatibus accusantium dicta, unde voluptates!",
+    "price": 99.90,
+    "oldPrice": 199.90,
+    "countInStock": 0,
+    "slug": "bermuda-basica-em-sarja-reta-marrom",
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/products/bermuda-basica-em-sarja-frente.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/products/bermuda-basica-em-sarja-atras.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/products/bermuda-basica-em-sarja-bolso.webp"
+      },
+      {
+        "id": 4,
+        "url": "/images/products/bermuda-basica-em-sarja-botao.webp"
+      }
+    ] 
+  },
+  {
+    "id": 4,
+    "name": "JAQUETA EM JEANS ESTONADO COM RASGOS E PUÍDOS AZUL",
+    "description": "jaqueta em jeans estonado com rasgos e puídos azul",
+    "sumary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquam, est nemo doloribus, et voluptates libero  labore, ab quod iusto quis qui cumque possimus. Minus velit provident possimus! Aliquid, tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati et neque, enim accusamus nemo expedita. Veniam autem accusamus quaerat officia minus aliquam ad, sunt eius voluptatibus accusantium dicta, unde voluptates!",
+    "price": 249.90,
+    "oldPrice": 499.90,
+    "countInStock": 7,
+    "slug": "jaqueta-em-jeans-estonado-com-rasgos-e-puidos-azul",
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/products/jaqueta-em-jeans-estonado-modelos.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/products/jaqueta-em-jeans-estonado-modelos-sorrindo.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/products/jaqueta-em-jeans-estonado-costas.webp"
+      },
+      {
+        "id": 4,
+        "url": "/images/products/jaqueta-em-jeans-estonado-bolso.webp"
+      },
+      {
+        "id": 5,
+        "url": "/images/products/jaqueta-em-jeans-estonado.webp"
+      }
+    ] 
+  },
+  {
+    "id": 5,
+    "name": "CALÇA RETA COM ESTAMPA XADREZ E BOLSOS VERDE",
+    "description": "calça reta com estampa xadrez e bolsos verde",
+    "sumary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquam, est nemo doloribus, et voluptates libero  labore, ab quod iusto quis qui cumque possimus. Minus velit provident possimus! Aliquid, tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati et neque, enim accusamus nemo expedita. Veniam autem accusamus quaerat officia minus aliquam ad, sunt eius voluptatibus accusantium dicta, unde voluptates!",
+    "price": 89.90,
+    "oldPrice": 179.90,
+    "countInStock": 33,
+    "slug": "calca-reta-com-estampa-xadrez-e-bolsos-verde",
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/products/calca-reta-com-estampa-xadrez-modelo.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/products/calca-reta-com-estampa-xadrez-zoom.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/products/calca-reta-com-estampa-xadrez-costas.webp"
+      },
+      {
+        "id": 4,
+        "url": "/images/products/calca-reta-com-estampa-xadrez-bolsos.webp"
+      },
+      {
+        "id": 5,
+        "url": "/images/products/calca-reta-com-estampa-xadrez-frente.webp"
+      }
+    ] 
+  }
+]
